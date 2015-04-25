@@ -1,0 +1,28 @@
+{
+  "name": "DaVinci",
+  "version": "0.0.1",
+  "description": "Draw together!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaVinSEA/DaVinci"
+  },
+  "keywords": [
+    "drawing",
+    "sockets"
+  ],
+  "author": "DaVinSEA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaVinSEA/DaVinci/issues"
+  },
+  "homepage": "https://github.com/DaVinSEA/DaVinci",
+  "dependencies": {
+    "express": ">= 4.8.0"
+    
+  }
+}
